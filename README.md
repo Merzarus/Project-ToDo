@@ -2,7 +2,7 @@
 
 ## Backend
 
-| Criar um banco PostgreSQL|
+| Criar um banco PostgreSQL |
 
 ### Variáveis de ambiente 
 ```
