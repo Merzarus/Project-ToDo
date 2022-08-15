@@ -1,6 +1,8 @@
-# Projeto Todo List AoCubo
+# Projeto ToDo List AoCubo
 
 ## Backend
+
+| Criar um banco PostgreSQL|
 
 ### Variáveis de ambiente 
 ```
@@ -9,6 +11,7 @@ PORT= (número do PORT que o servidor irá ser iniciado. ex: "4000")
 ```
 
 - `| npm install |` Instala as dependências do projeto |
+- `| prisma migrate dev |` Realiza a migration das tabelas do banco | 
 - `| npm start |` Inicia o projeto |
 
 ## Frontend
